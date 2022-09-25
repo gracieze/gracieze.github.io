@@ -9,13 +9,14 @@ Grace Arnold</title>
 <meta name="description" content="Grace Arnold's Portfolio">
 <style>
 body {background-color:#1a1a1a;background-repeat:no-repeat;background-position:top left;background-attachment:fixed;}
-h1{font-family:Arial, sans-serif;font-variant:small-caps;color:#000000;background-color:#ffffff;}
-p {font-family:Georgia, serif;font-size:12px;font-style:normal;font-weight:normal;color:#000000;background-color:#ffffff;}
+h1{font-family:Times, serif;font-variant:small-caps;color:#ffa279;background-color:#1a1a1a;}
+p {font-family:Georgia, serif;font-size:12px;font-style:normal;font-weight:bold;color:#e47018;background-color:#1a1a1a;}
 </style>
 </head>
 <body>
 <h1>Welcome to my portfolio!</h1>
 <p>*under construction*</p>
+<p>:)</p>
 <p></p>
 <p>@gracieze on GitHub</p>
 </body>
